@@ -1,6 +1,8 @@
 pengenalan-rambu-lalu-lintas
 ============================
 
-aplikasi ini dipakai oleh semua umur
+Informasi mengenai aplikasi ini dapat Anda dapatkan di sini 
 
 website : http://kewahkewehuhyeah.blogspot.com/
+
+Terimakasih
