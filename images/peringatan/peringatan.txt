@@ -1,0 +1,70 @@
+1a.Tikungan ke kiri
+1b.Tikungan ke kanan
+1c.Tikungan tajam ke kiri
+1d.Tikungan tajam ke kanan
+1e.Tikungan ganda, tikungan pertama ke kiri
+1f.Tikungan ganda, tikungan pertama ke kanan
+1g.Banyak tikungan atau urutan beberapa tikungan, tikungan pertama ke kiri
+1h.Banyak tikungan atau urutan beberapa tikungan, tikungan pertama ke kanan
+1i.Pengarah tikungan ke kanan
+1j.Pengarah tikungan ke kiri
+2a.Turunan
+2b.Turunan curam
+Tanjakan
+Tanjakan terjal
+Penyempitan di kiri dan kanan jalan
+Penyempitan di kiri
+penyempitan di kanan
+Jembatan atau penyempitan di jembatan
+Pengurangan lajur kiri
+Pengurangan lajur kanan
+Jembatan angkat
+Jalan menuju tepian air, tepian jurang
+Jalan tidak datar, bergelombang, atau berbukit-bukit
+Jalan cembung atau jembatan cembung
+Jalan cekung
+Jalan licin
+Kerikil lepas
+Longsoran tanah atau batau yang berjatuhan dari sebelah kiri jalan
+Longsoran tanah atau batau yang berjatuhan dari sebelah kanan jalan
+Penyeberangan orang
+Banyak anak-anak
+Banyak orang bersepeda dan sering menyeberang jalan
+Banyak satwa jinak dan sering menyeberang jalan
+Banyak satwa liar dan sering menyeberang jalan
+Ada pekerjaan di jalan
+Lampu pengatur lalu lintas
+Lintasa pesawat terbang
+Angin dari samping
+Lalu lintas dua arah
+awal bangunan pemisah untuk lalulintas dua arah
+Akhir bangunan pemisah untuk lalulintas dua arah
+awal bangunan pemisah untuk lalulintas satu arah
+Persimpangan empat
+Persimpangan tiga sisi kiri
+Persimpangan tiga sisi kanan
+Persimpangan tiga serong kiri
+Persimpangan tiga serong kiri
+Persimpangan tiga serong kanan
+Persimpangan tiga serong kanan
+Persimpangan tiga type T
+Persimpangan tiga type Y
+Persimpangan ganda kiri kanan
+Persimpangan ganda kanan kiri
+Persimpangan tiga ganda kiri
+Persimpangan tiga ganda kanan
+Persimpangan tiga dengan prioritas
+Persimpangan tiga sisi kiri dengan prioritas
+Persimpangan tiga sisi kanan dengan prioritas
+Persimpangan tiga serong kiri dengan prioritas
+Persimpangan tiga serong kanan dengan prioritas
+Persimpangan bundaran dengan prioritas
+Tinggi ruang bebas ... m
+Lebar ruang bebas ... m
+Persilangan datar dengan lintasan kereta api berpintu
+Persilangan datar dengan lintasan kereta api tanpa pintu
+Hati-hati
+Rambu tambahan menyatakan jarak 450m
+Rambu tambahan menyatakan jarak 300m
+Rambu tambahan menyatakan jarak 150m
+Peringatan tentang bahaya tanah longsor di musim hujan

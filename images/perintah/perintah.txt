@@ -1,0 +1,22 @@
+1a	Wajib mengikuti arah ke kiri
+1b	Wajib mengikuti arah ke kanan
+1c	Wajib mengikuti arah yang ditunjuk
+1d	Wajib mengikuti arah yang ditunjuk
+1e	Wajib berjalan lurus ke depan
+1f	Wajib mengikuti arah yang ditentukan pada bundaran
+2a	Wajib mengikuti salah satu arah yang ditunjuk
+2b	Wajib mengikuti salah satu arah yang ditunjuk
+3a	Lajur atau bagian jalan yang wajib dilewati
+3b	Lajur atau bagian jalan yang wajib dilewati
+3c	Wajib melewati salah satu lajur yang ditunjuk
+4a	Wajib untuk pejalan kaki
+4b	Wajib untuk lalulintas bersepeda
+4c	Wajib untuk lalulintas becak
+4d	Wajib untuk lalulintas pengendara berkuda
+4e	Wajib untuk lalulintas dokar
+4f	Wajib untuk lalulintas pedati
+4g	Wajib untuk lalulintas pedati, gerobak dorong, dan dokar
+5a	Perintah kecepatan minimum yang diwajibkan
+5b	Batas akhir kecepatan minimum yang diwajibkan
+6a	Wajib memakai rantai pada ban
+6b	Batas akhir wajib memakai rantai pada ban
