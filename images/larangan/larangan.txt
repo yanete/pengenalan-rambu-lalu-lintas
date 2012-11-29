@@ -1,0 +1,64 @@
+1a : rambu lalu lintas rambu larangan berjalan terus, wajib berhenti sesaat dan meneruskan perjalanan setelah mendapat kepastian aman meneruskan dari lalu lintas arah lainnya
+1b: rambu lalu lintas rambu larangan berjalan terus apabila mengakibatkan rintangan/hambatan/gangguan bagi lalu lintas dari arah lain yang wajib didahulukan
+1c: dilarang berjalan terus pada persilangan-persilangan sebidang kereta api jalur tunggal, wajib berhenti sesaat untuk mendapatkan kepastian keamanan. 
+1d : berjalan terus pada persilangan-persilangan sebidang kereta api jalur ganda, wajib berhenti sesaat untuk mendapatkan kepastian keamanan.
+1e : rambu lalu lintas rambu larangan berjalan terus, wajib berhenti sesaat dan meneruskan perjalanan setelah melaksanakan suatu kegiatan kewajiban tertentu ( contoh untuk pemeriksaan cukai).
+1f : rambu laranganberjalan terus, wajib berhenti sesaat sebelum bagian jalan tertentu dan meneruskan perjalanan setelah mendahulukan kendaraan yang datang dari arah depan secara bersamaan.
+2a : rambu larangan masuk bagi semua kendaraan bermotor maupun tidak bermotor dari kedua arah.
+2b : rambu larangan masuk bagi semua kendaraan bermotor maupun tidak bermotor.
+3a : rambu larangan masuk bagi kendaraan bermotor roda empat dan lebih.
+3b : rambu larangan masuk bagi kendaraan bermotor roda tiga.
+3c : rambu larangan masuk bagi kendaraan bermotor roda dua.
+3d : rambu larangan masuk bagi kendaraan bermotor.
+3e : rambu larangan masuk bagi bus.
+3f : rambu larangan masuk bagi mobil barang.
+3g : rambu larangan masuk bagi kendaraan bermotor dengan kereta gandeng.
+3h : rambu larangan masuk bagi kendaraan bermotor dengan kereta temple.
+3i : rambu larangan masuk bagi kendaraan untuk keperluan khusus antara lain forklift, penggilas jalan, traktor.
+3j : rambu larangan masuk bagi delman dan sejenisnya.
+3k ; rambu larangan masuk bagi gerobak pedati dan sejenisnya.
+3l ; rambu larangan masuk bagi gerobak dorong dan sejenisnya.
+3m : rambu larangan masuk bagi gerobak dan dokar.
+3n : rambu larangan masuk bagi semua kendaraan tidak bermotor.
+3o ; rambu larangan masuk bagi sepeda.
+3p : rambu larangan masuk bagi becak.
+3q : rambu larangan masuk bagi sepeda dan becak.
+3r : rambu larangan masuk bagi pejalan kaki.
+4a : rambu larangan berhenti sampai jarak 15m dari pemasangan rambu menurut arah lalu lintas, kecuali dinyatakan lain dengan adanya papan tambahan.
+4b : rambu larangan parker sampai jarak 15m dari pemasangan rambu menurut arah lalu lintas, kecuali dinyatakan lain dengan adanya papan tambahan.
+5a : rambu larangan berbelok ke kiri bagi kendaraan bermotor maupun tidak bermotor untuk masuk jalan simpangan atau berpindah jalur searah lalu lintas.
+5b : rambu larangan berbelok ke kanan bagi kendaraan bermotor maupun tidak bermotor untuk masuk jalan simpangan atau berpindah jalur searah lalu lintas.
+5c : rambu larangan berbalik arah bagi bermotor maupun tidak bermotor
+6 : rambu larangan mendahului kendaraan lain yang berjalan di depan.
+7 : rambu larangan menggunakan isyarat suara.
+8a : rambu larangan masuk bagi kendaraan panjang lebih dari …meter.
+8b : rambu larangan masuk bagi kendaraan lebar lebih dari …meter.
+8c : rambu larangan masuk bagi kendaraan tinggi lebih dari …meter.
+8d : rambu larangan masuk bagi kendaraan tidak bermotor dengan panjang lebih dari ,.,.meter.
+8e : rambu larangan masuk bagi kendaraan yang seluruh berat termasuk muatannya lebih dari 5ton.
+8f : rambu larangan masuk bagi kendaraan dengan muatan sumbu lebih dari 8 ton.
+8g ; rambu larangan masuk bagi kendaraan dengan muatan sumbu terberat (mst) lebih besar dari 10 ton atau ukuran lebar tidak melebihi 2500 milimeter atau ukuran panjang tidak melebihi 1800 milimeter.
+8h : rambu larangan masuk bagi kendaraan dengan muatan sumbu terberat (mst) lebih besar dari 8 ton atau ukuran lebar tidak melebihi 2500 milimeter atau ukuran panjang tidak melebihi 1800 milimeter.
+8i : rambu larangan masuk bagi kendaraan dengan muatan sumbu terberat (mst) lebih besar dari 10 ton atau ukuran lebar tidak melebihi 2500 milimeter atau ukuran panjang tidak melebihi 1200 milimeter.
+8j : rambu larangan masuk bagi kendaraan dengan muatan sumbu terberat (mst) lebih besar dari 10 ton atau ukuran lebar tidak melebihi 2100 milimeter atau ukuran panjang tidak melebihi 9000 milimeter.
+9 : rambu larangan kecepatan kendaraan lebih dari 40km per jam.
+10 : rambu larangan mengikuti kendaraan di depan kurang dari jarak 15meter.
+11a : batas akhir kecepatan maksimum 40km perjam.
+11b : batas akhir kendaraan mendahului kendaraan lain.
+11c : batas akhir semua larangan setempat terhadap kendaraan bergerak.
+12 : rambu larangan untuk mendahului.
+
+200m : jarak dari rambu sampai awal bagian jalan yang berbahaya atau awal daerah dimana peraturan berlaku, sebagaimana contoh dimaksud.
+Km : panjang bagian jalan kendaraan yang berbahaya atau panjang daerah dimana peraturan berlaku sebagaimana contoh dimaksud.
+10m kiri: berlakunya rambu sesuai arah panah ke kiri 10meter.
+10m kanan : berlakunya rambu sesuai arah panah ke kanan 10meter.
+5m : berlakunya rambu sesuai arah panah ke kiri dan ke kanan 10meter. 
+Khusus bus : berlakunya rambu sesuai dengan keterangan pada papan tambahan.
+
+Panah atas: Awal berlakunya rambu sesuai arah panah lalu lintas ke depan
+Panah atas bawah: pengulangan berlakunya rambu sesuai arah panah lalulintas kedepan dank e belakang
+Panah bawah: akhir berlakunya rambu sesuai dengan anak panah
+06.00-1500 : berlakunya rambu sesuai dengan waktu yang ditentukan 
+Kecuali bus: berlakunya rambu bagi semua kendaraan kecuali bus
+Banyak Jurang: papan tambahan untuk menegaskan jenis bahaya yang dimaksud table I no 23 (hati-hati)
+Licin di waktu hujan : papan tambahan untuk menegaskan jenis bahaya yang dimaksut table I no 23
