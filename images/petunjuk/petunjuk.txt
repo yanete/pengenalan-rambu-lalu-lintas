@@ -1,0 +1,64 @@
+1a	Rambu pendahulu petunjuk jurusan pada persimpangan di depan
+1b	Rambu pendahulu petunjuk jurusan yang menunjukkan arah daerah
+1c	Rambu pendahulu petunjuk jurusan yang menentukan arah yang harus ditempuh pada suatu daerah
+1d	Rambu pendahulu petunjuk jurusan yang menyatakan arah untuk mencapai suatu tempat keluar dari jalan tol 
+1e	Rambu pendahulu petunjuk jurusan yang menyatakan lajur kiri yang harus dilewati untuk jurusan yang dituju
+1f	Rambu pendahulu petunjuk jurusan yang menyatakan lajur kanan yang harus dilewati untuk jurusan yang dituju
+1g	Rambu pendahulu petunjuk jurusan yang menyatakan adanya pilihan lajur sesuai jurusan pada persimpangan
+2a	Rambu petunjuk jurusan Purwakarta dengan jarak 70 km
+2b	Rambu petunjuk jurusan menuju jalan tol Jagorawi
+2c	Rambu petunjuk jurusan ke pelabuhan udara
+2d	Rambu petunjuk jurusan untuk ke arah perkemahan
+2e	Rambu petunjuk jurusan untuk wisata ke arah pesanggahan pemuda
+2f	Rambu petunjuk jurusan daerah wisata Dieng dengan jarak 10km
+2g	Rambu petunjuk jurusan ke daerah Taman Nasional
+3	Jalan ini menuju Tomohon 3km dan ke Tondano 15km
+4a	Awal batas wilayah kota Kediri
+4b	Keluar batas wilayah kota Kediri 
+4c	Awal batas wilayah jalan Tol Jogorawi
+4d	Akhir batas wilayah jalan Tol Jogorawi
+5	Tempat penyeberangan orang
+6a	Jalan satu arah kanan 
+6b	Jalan satu arah kiri
+6c	Jalan satu arah lurus
+6d	Rambu petunjuk tempat berbalik arah
+6e	Jalan buntu
+6f	Jalan buntu
+6g	Jalan tol
+6h	Batas akhir jalan tol
+6i	Khusus kendaraan bermotor
+6j	Batas akhir jalan yang khusus untuk kendaraan bermotor 
+6k	Tempat pemberhentian bus
+6l	Awal lajur bus
+6m	Bagian lajur yang dapat digunakan lalulintas lainnya
+6n	Rambu yang menjelaskan bahwa akan memasuki jalan yang mempunyai lajur khusus bus
+6o	Lajur bus searah dengan arah lalulintas
+6p	Lajur bus berlawanan arah dengan arah lalulintas	
+6q	Akhir lajur bus
+6r	Tempat pemberhentian kendaraan dengan lintas tetap (trem, kereta api, aero movel)
+6s	Memasuki daerah penggunaan sabuk pengaman
+7	Mendapat prioritas atas lalulintas dari depan
+8	Tempat Parkir
+9a	Rumah sakit
+9b	Balai pertolongan pertama
+9c	Bengkel perbaikan kendaraan
+9d	Telepon umum
+9e	Pompa bahan bakar
+9f	Hotel/ motel
+9g	Rumah makan
+9h	Kedai kopi
+9i	Tempat wisata
+9j	Tempat berjalan kaki
+9k	Tempat berkemah
+9l	Tempat kereta kemah
+9m	Tempat berkemah dan kereta kemah
+9n	Persanggahan pemuda
+9p	Rumah ibadat umat Islam
+9q	Rumah ibadat umat Kristen
+9r	Rumah ibadat umat Hindu
+9s	Rumah ibadat umat Budha
+9t	Museum
+9u	Stadion/ lapangan terbuka
+9v	Lapangan Gantole
+9w	Gedung/ Bangsal Olahraga
+10	Papan nama jalan
